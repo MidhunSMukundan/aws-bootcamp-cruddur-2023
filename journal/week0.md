@@ -4,3 +4,6 @@
 Startup Name: CRUDDUR
 Microbloging Website**
 test
+
+
+[]Image/Cruddur%20Logical%20Diagram.jpeg
